@@ -1,0 +1,45 @@
+{
+	"asset": {
+		"assetId": "CAM-1987-2746-4728",
+		"mimeType": "image/jpeg",
+		"bucketName": "myquarkusbuckets3",
+		"path": "pexels-pixabay-47367.jpg"
+	},
+	"metadataModelId":"BMW.MD.IMAGE_AUTOMOBILE_OR_MOTORCYCLE",
+	"folderId": "5de872e4bb61c6fea84d3ac33015ca7e5d1ddfb7",
+	"assetMetadata": {
+		"BMW.FD.DESCRIPTION": "Test DESCRIPTION ",
+		"BMW.TF.CHANNEL_RESTRICTION_RESTRICTION_ON_USE_EN_AG": [
+			"000004",
+			"000006"
+		],
+		"BMW.TF.REQUESTED_BY": [
+			"000001",
+			"000002",
+			"000003",
+			"000004"
+		],
+  "BMW.TF.CONTACT" : ["Judith Hebele"],
+  "BMW.TF.DETAILS_EN_AG" : ["All motifs: Media- All Media, exclusive TV and cinema, Territory - worldwide, Conditions - 5 years from campaign start*. The BMW Museum Munich and BMW Welt Munich are to be integrated without time restrictions.  *Campaign start: 09 June 2021"],
+  "BMW.TF.TYPE_EN_AG" : ["000001"],
+  "BMW.TF.TAGS_EN_AG" : ["001052"],
+  "BMW.TF.SUB_TOPIC_EN_AG" : ["000089"],
+  "BMW.TF.LANGUAGE_MARKET_EN_AG" : ["000004"],
+  "BMW.FD.COPYRIGHTS_LEGAL_NOTICE" : "All motifs: Media- All Media, exclusive TV and cinema, Territory - worldwide, Conditions - 5 years from campaign start*. The BMW Museum Munich and BMW Welt Munich are to be integrated without time restrictions.  *Campaign start: 09 June 2021",
+  "BMW.FD.ASSET_STATUS" : "000003",
+  "BMW.FD.CAMPAIGN" : "BMW i4 Digital Atomic Assets (G26)",
+  "BMW.FD.SUB_TYPE_EN_AG" : "000074",
+  "BMW.FD.VARIANT_TYPE_EN_AG" : "000047",
+  "BMW.FD.DESCRIPTION" : "BMW i4 Digital Atomic Assets (G26)",
+  "BMW.FD.LOCATION_EN_AG" : "000042",
+  "BMW.FD.PRODUCTION_YEAR_EN_AG" : "999988",
+  "BMW.FD.MEDIA_OWNER_EN_AG" : "000046",
+  "BMW.FD.ORIGINAL_FILE_NAME" : "211011331_BMWG26_sx002_car003_AventurinRed_3fk_v009.tif",
+  "BMW.TF.UPHOLSTERY_EN_AG" : ["000126^000085^000085"],
+  "BMW.TF.OPTIONAL_EQUIPMENT_EN_AG" : ["000126^000349^000349"],
+  "BMW.TF.PAINT_EN_AG" : ["000126^000085^000085"],
+  "BMW.TF.CONTACT_INFORMATION" : ["000003^000079"],
+  "BMW.TF.WHEELS_TYRES_EN_AG" : ["000126^000870^000870"],
+  "BMW.TF.MOTORISATION_EN_AG" : ["000126^000398"]
+	}
+}

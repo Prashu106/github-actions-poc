@@ -1,0 +1,2382 @@
+{
+    "asset_resource": {
+        "asset": {
+            "access_control_descriptor": {
+                "permissions_map": {
+                    "entry": [
+                        {
+                            "key": "text.securityPolicy.permission.Custom04Permission",
+                            "value": true
+                        },
+                        {
+                            "key": "text.securityPolicy.permission.ContentEditPermission",
+                            "value": true
+                        },
+                        {
+                            "key": "text.securityPolicy.permission.AssetViewPermission",
+                            "value": true
+                        },
+                        {
+                            "key": "text.securityPolicy.permission.ProjectViewPermission",
+                            "value": true
+                        },
+                        {
+                            "key": "text.securityPolicy.permission.MembershipEditPermission",
+                            "value": true
+                        },
+                        {
+                            "key": "text.securityPolicy.permission.Custom03Permission",
+                            "value": true
+                        },
+                        {
+                            "key": "text.securityPolicy.permission.MetaDataEditPermission",
+                            "value": true
+                        },
+                        {
+                            "key": "text.securityPolicy.permission.EditParentsPermission",
+                            "value": true
+                        },
+                        {
+                            "key": "text.securityPolicy.permission.Custom02Permission",
+                            "value": true
+                        },
+                        {
+                            "key": "text.securityPolicy.permission.ExportPermission",
+                            "value": true
+                        },
+                        {
+                            "key": "text.securityPolicy.permission.SummaryViewPermission",
+                            "value": true
+                        },
+                        {
+                            "key": "text.securityPolicy.permission.PreviewViewPermission",
+                            "value": true
+                        },
+                        {
+                            "key": "text.securityPolicy.permission.SubscribePermission",
+                            "value": true
+                        },
+                        {
+                            "key": "text.securityPolicy.permission.DeleteAssetPermission",
+                            "value": true
+                        },
+                        {
+                            "key": "text.securityPolicy.permission.Custom01Permission",
+                            "value": true
+                        }
+                    ]
+                }
+            },
+            "asset_content_info": {
+                "master_content": {
+                    "content_checksum": "41d261b517146f9078f39f7e75603ed6",
+                    "content_data": {
+                        "data_source": "NO_CONTENT",
+                        "temp_file": false
+                    },
+                    "content_kind": "MASTER",
+                    "content_manager_id": "ARTESIA.CONTENT.FILESYSTEM",
+                    "content_size": 303795,
+                    "height": 1134,
+                    "id": "7953c5d5de776cc947a070e12d0dfb9da3e0506f",
+                    "mime_type": "image/jpeg",
+                    "name": "DI24_000002863.jpg",
+                    "unit_of_size": "BYTES",
+                    "url": "/otmmapi/v6/renditions/7953c5d5de776cc947a070e12d0dfb9da3e0506f",
+                    "width": 1600
+                }
+            },
+            "asset_id": "0a5556beeb0bb2c36eeced9c93d8ec363cbee60d",
+            "asset_lock_state_last_update_date": "2024-07-09T12:51:45+02:00",
+            "asset_lock_state_user_id": "41",
+            "asset_state": "NORMAL",
+            "asset_state_last_update_date": "2024-07-09T12:51:45+02:00",
+            "asset_state_user_id": "41",
+            "checked_out": false,
+            "content_editable": true,
+            "content_lock_state_last_update_date": "2024-07-08T08:35:11+02:00",
+            "content_lock_state_user_id": "41",
+            "content_lock_state_user_name": "junittest",
+            "content_size": 303795,
+            "content_state": "NORMAL",
+            "content_state_last_update_date": "2024-07-08T08:35:11+02:00",
+            "content_state_user_id": "41",
+            "content_state_user_name": "Test Junit",
+            "content_type": "BITMAP",
+            "creator_id": "41",
+            "date_imported": "2024-07-08T08:35:10+02:00",
+            "date_last_updated": "2024-07-09T12:51:45+02:00",
+            "deleted": false,
+            "expired": false,
+            "import_job_id": 5121,
+            "import_user_name": "junittest",
+            "latest_version": true,
+            "legacy_model_id": 103,
+            "links": {
+                "links": [],
+                "source_id": "0a5556beeb0bb2c36eeced9c93d8ec363cbee60d"
+            },
+            "locked": false,
+            "master_content_info": {
+                "content_checksum": "41d261b517146f9078f39f7e75603ed6",
+                "content_data": {
+                    "data_source": "NO_CONTENT",
+                    "temp_file": false
+                },
+                "content_kind": "MASTER",
+                "content_manager_id": "ARTESIA.CONTENT.FILESYSTEM",
+                "content_size": 303795,
+                "height": 1134,
+                "id": "7953c5d5de776cc947a070e12d0dfb9da3e0506f",
+                "mime_type": "image/jpeg",
+                "name": "DI24_000002863.jpg",
+                "unit_of_size": "BYTES",
+                "url": "/otmmapi/v6/renditions/7953c5d5de776cc947a070e12d0dfb9da3e0506f",
+                "width": 1600
+            },
+            "metadata": {
+                "type": "com.artesia.metadata.MetadataModel",
+                "id": "BMW.MD.IMAGE_AUTOMOBILE_OR_MOTORCYCLE",
+                "name": "Image - Automobile/ Motorcycle",
+                "metadata_element_list": [
+                    {
+                        "type": "com.artesia.metadata.MetadataCategory",
+                        "id": "BMW.FG.ASSET_INFORMATION",
+                        "name": "Asset Information",
+                        "metadata_element_list": [
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "ARTESIA.FIELD.ASSET ID",
+                                "name": "ID",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false,
+                                    "value": {
+                                        "type": "string",
+                                        "value": "0a5556beeb0bb2c36eeced9c93d8ec363cbee60d"
+                                    }
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.D_NUMBER",
+                                "name": "D Number",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false,
+                                    "value": {
+                                        "type": "string",
+                                        "value": "DI24_000002863"
+                                    }
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.ORIGINAL_FILE_NAME",
+                                "name": "Original File Name",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false,
+                                    "value": {
+                                        "type": "string",
+                                        "value": "Dick_Butkus.jpg"
+                                    }
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.PROVISION_DATE",
+                                "name": "Provision Date",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.SOC",
+                                "name": "SOC",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.DOC",
+                                "name": "DOC",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.EOP",
+                                "name": "EOP",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.EXPIRATION_DATE",
+                                "name": "Expiration Date",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.ASSET_STATUS",
+                                "name": "Asset Status",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.PROVISION_STATUS",
+                                "name": "Provision Status",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.CHANNEL_RESTRICTION_RESTRICTION_ON_USE_EN_AG",
+                                "name": "Channel Restriction/Restriction on Use",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.CHANNEL_RESTRICTION_RESTRICTION_ON_USE_EN_AG",
+                                        "name": "Channel Restriction/Restriction on Use",
+                                        "parent_table_id": "BMW.TFG.CHANNEL_RESTRICTION_RESTRICTION_ON_USE_EN_AG",
+                                        "parent_table_name": "Channel Restriction/Restriction on Use",
+                                        "values": []
+                                    }
+                                ],
+                                "legacy_id": 1213
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.MEDIA_OWNER_EN_AG",
+                                "name": "Media Owner",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.MEDIA_OWNER_DE_AG",
+                                "name": "Medieneigentümer",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "ARTESIA.FIELD.DATE IMPORTED",
+                                "name": "Date: Imported",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false,
+                                    "value": {
+                                        "type": "dateTime",
+                                        "value": "2024-07-08T08:35:10+02:00"
+                                    }
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "ARTESIA.FIELD.IMPORTED BY",
+                                "name": "Imported By",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": true,
+                                    "is_locked": false,
+                                    "value": {
+                                        "type": "com.artesia.metadata.DomainValue",
+                                        "active_from": "",
+                                        "active_to": "",
+                                        "display_value": "Junit, Test (junittest, active)",
+                                        "expired_value": false,
+                                        "field_value": {
+                                            "type": "string",
+                                            "value": "41"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "ARTESIA.FIELD.DATE PROPERTIES LAST MODIFIED",
+                                "name": "Date: Properties Last Modified",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false,
+                                    "value": {
+                                        "type": "dateTime",
+                                        "value": "2024-07-09T12:51:45+02:00"
+                                    }
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "ARTESIA.FIELD.PROPERTIES LAST EDITED BY",
+                                "name": "Properties Last Edited By",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": true,
+                                    "is_locked": false,
+                                    "value": {
+                                        "type": "com.artesia.metadata.DomainValue",
+                                        "active_from": "",
+                                        "active_to": "",
+                                        "display_value": "Junit, Test (junittest, active)",
+                                        "expired_value": false,
+                                        "field_value": {
+                                            "type": "string",
+                                            "value": "41"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.DESCRIPTION",
+                                "name": "Description",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.CAMPAIGN",
+                                "name": "Campaign",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.DESCRIPTIVE_METADATA_ADDED",
+                                "name": "Descriptive metadata added",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "ARTESIA.FIELD.ASSET VERSION",
+                                "name": "Asset Version",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false,
+                                    "value": {
+                                        "type": "int",
+                                        "value": 1
+                                    }
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "ARTESIA.FIELD.IS LATEST VERSION",
+                                "name": "Is Latest Version",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": true,
+                                    "is_locked": false,
+                                    "value": {
+                                        "type": "com.artesia.metadata.DomainValue",
+                                        "active_from": "",
+                                        "active_to": "",
+                                        "display_value": "Yes",
+                                        "expired_value": false,
+                                        "field_value": {
+                                            "type": "string",
+                                            "value": "Y"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.COPYRIGHTS_LEGAL_NOTICE",
+                                "name": "Copyrights/Legal Notice",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.CHANNEL_RESTRICTION_RESTRICTION_ON_USE_DE_AG",
+                                "name": "Kanal-/Anwendungsbeschränkung",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.CHANNEL_RESTRICTION_RESTRICTION_ON_USE_DE_AG",
+                                        "name": "Kanal-/Anwendungsbeschränkung",
+                                        "parent_table_id": "BMW.TFG.CHANNEL_RESTRICTION_RESTRICTION_ON_USE_DE_AG",
+                                        "parent_table_name": "Kanal-/Anwendungsbeschränkung",
+                                        "values": []
+                                    }
+                                ],
+                                "legacy_id": 1242
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.EMBARGO",
+                                "name": "Embargo",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.EMBARGO_DATE",
+                                        "name": "Embargo Date",
+                                        "parent_table_id": "BMW.TFG.EMBARGO",
+                                        "parent_table_name": "Embargo",
+                                        "values": []
+                                    },
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.EMBARGO_TIME",
+                                        "name": "Embargo Time",
+                                        "parent_table_id": "BMW.TFG.EMBARGO",
+                                        "parent_table_name": "Embargo",
+                                        "values": []
+                                    },
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.EMBARGO_TIME_ZONE",
+                                        "name": "Embargo Time Zone",
+                                        "parent_table_id": "BMW.TFG.EMBARGO",
+                                        "parent_table_name": "Embargo",
+                                        "values": []
+                                    }
+                                ],
+                                "legacy_id": 1219
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.REQUESTED_BY",
+                                "name": "Requested by",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.REQUESTED_BY",
+                                        "name": "Requested by",
+                                        "parent_table_id": "BMW.TFG.REQUESTED_BY",
+                                        "parent_table_name": "Requested by",
+                                        "values": []
+                                    }
+                                ],
+                                "legacy_id": 1218
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.MARKET_REQUEST",
+                                "name": "Market request",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.MARKET_REQUEST",
+                                        "name": "Market request",
+                                        "parent_table_id": "BMW.TFG.MARKET_REQUEST",
+                                        "parent_table_name": "Market request",
+                                        "values": []
+                                    }
+                                ],
+                                "legacy_id": 1226
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.LANGUAGE_MARKET_EN_AG",
+                                "name": "Language-Market",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.LANGUAGE_MARKET_EN_AG",
+                                        "name": "Language-Market",
+                                        "parent_table_id": "BMW.TFG.LANGUAGE_MARKET_EN_AG",
+                                        "parent_table_name": "Language-Market",
+                                        "values": []
+                                    }
+                                ],
+                                "legacy_id": 1203
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.LANGUAGE_MARKET_DE_AG",
+                                "name": "Sprache-Markt",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.LANGUAGE_MARKET_DE_AG",
+                                        "name": "Sprache-Markt",
+                                        "parent_table_id": "BMW.TFG.LANGUAGE_MARKET_DE_AG",
+                                        "parent_table_name": "Sprache-Markt",
+                                        "values": []
+                                    }
+                                ],
+                                "legacy_id": 1232
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.ASSET_TOPIC_EN_AG",
+                                "name": "Asset Topic",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.ASSET_TOPIC_EN_AG",
+                                        "name": "Asset Topic",
+                                        "parent_table_id": "BMW.TFG.ASSET_TOPIC_EN_AG",
+                                        "parent_table_name": "Asset Topic",
+                                        "values": []
+                                    },
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.SUB_TOPIC_EN_AG",
+                                        "name": "Sub Topic",
+                                        "parent_table_id": "BMW.TFG.ASSET_TOPIC_EN_AG",
+                                        "parent_table_name": "Asset Topic",
+                                        "values": []
+                                    }
+                                ],
+                                "legacy_id": 1217
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.ASSET_TOPIC_DE_AG",
+                                "name": "Asset Thema",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.ASSET_TOPIC_DE_AG",
+                                        "name": "Asset Thema",
+                                        "parent_table_id": "BMW.TFG.ASSET_TOPIC_DE_AG",
+                                        "parent_table_name": "Asset Thema",
+                                        "values": []
+                                    },
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.SUB_TOPIC_DE_AG",
+                                        "name": "Sub-Thema",
+                                        "parent_table_id": "BMW.TFG.ASSET_TOPIC_DE_AG",
+                                        "parent_table_name": "Asset Thema",
+                                        "values": []
+                                    }
+                                ],
+                                "legacy_id": 1245
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.TAGS_EN_AG",
+                                "name": "BMW-Tags",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.TAGS_EN_AG",
+                                        "name": "Tags",
+                                        "value": {
+                                            "cascading_domain_value": false,
+                                            "domain_value": true,
+                                            "is_locked": false,
+                                            "value": {
+                                                "type": "com.artesia.metadata.DomainValue",
+                                                "active_from": "",
+                                                "active_to": "",
+                                                "display_value": "1er sedan",
+                                                "expired_value": false,
+                                                "field_value": {
+                                                    "type": "string",
+                                                    "value": "002990"
+                                                }
+                                            }
+                                        },
+                                        "parent_table_id": "BMW.TFG.TAGS_EN_AG",
+                                        "parent_table_name": "BMW-Tags",
+                                        "values": [
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": true,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "com.artesia.metadata.DomainValue",
+                                                    "active_from": "",
+                                                    "active_to": "",
+                                                    "display_value": "1er sedan",
+                                                    "expired_value": false,
+                                                    "field_value": {
+                                                        "type": "string",
+                                                        "value": "002990"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": true,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "com.artesia.metadata.DomainValue",
+                                                    "active_from": "",
+                                                    "active_to": "",
+                                                    "display_value": "3-phase",
+                                                    "expired_value": false,
+                                                    "field_value": {
+                                                        "type": "string",
+                                                        "value": "001694"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": true,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "com.artesia.metadata.DomainValue",
+                                                    "active_from": "",
+                                                    "active_to": "",
+                                                    "display_value": "360° Electric",
+                                                    "expired_value": false,
+                                                    "field_value": {
+                                                        "type": "string",
+                                                        "value": "000707"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "legacy_id": 1202
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.TAGS_DE_AG",
+                                "name": "Schlagworte",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.TAGS_DE_AG",
+                                        "name": "Schlagworte",
+                                        "value": {
+                                            "cascading_domain_value": false,
+                                            "domain_value": true,
+                                            "is_locked": false,
+                                            "value": {
+                                                "type": "com.artesia.metadata.DomainValue",
+                                                "active_from": "",
+                                                "active_to": "",
+                                                "display_value": "1erLimousine",
+                                                "expired_value": false,
+                                                "field_value": {
+                                                    "type": "string",
+                                                    "value": "002990"
+                                                }
+                                            }
+                                        },
+                                        "parent_table_id": "BMW.TFG.TAGS_DE_AG",
+                                        "parent_table_name": "Schlagworte",
+                                        "values": [
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": true,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "com.artesia.metadata.DomainValue",
+                                                    "active_from": "",
+                                                    "active_to": "",
+                                                    "display_value": "1erLimousine",
+                                                    "expired_value": false,
+                                                    "field_value": {
+                                                        "type": "string",
+                                                        "value": "002990"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": true,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "com.artesia.metadata.DomainValue",
+                                                    "active_from": "",
+                                                    "active_to": "",
+                                                    "display_value": "3-phasig",
+                                                    "expired_value": false,
+                                                    "field_value": {
+                                                        "type": "string",
+                                                        "value": "001694"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": true,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "com.artesia.metadata.DomainValue",
+                                                    "active_from": "",
+                                                    "active_to": "",
+                                                    "display_value": "360° Electric",
+                                                    "expired_value": false,
+                                                    "field_value": {
+                                                        "type": "string",
+                                                        "value": "000707"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "legacy_id": 1231
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.CREATIVE_REVIEW_JOB_STATUS",
+                                "name": "Creative Review Job Status",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.LITHO_STATUS",
+                                        "name": "Litho Status",
+                                        "parent_table_id": "BMW.TFG.CREATIVE_REVIEW_JOB_STATUS",
+                                        "parent_table_name": "Creative Review Job Status",
+                                        "values": []
+                                    },
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.ARTWORK_STATUS",
+                                        "name": "Artwork Status",
+                                        "parent_table_id": "BMW.TFG.CREATIVE_REVIEW_JOB_STATUS",
+                                        "parent_table_name": "Creative Review Job Status",
+                                        "values": []
+                                    },
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.CREATIVE_AGENCY_STATUS",
+                                        "name": "Creative Agency Status",
+                                        "parent_table_id": "BMW.TFG.CREATIVE_REVIEW_JOB_STATUS",
+                                        "parent_table_name": "Creative Review Job Status",
+                                        "values": []
+                                    },
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.PRODUCT_MANAGEMENT_STATUS",
+                                        "name": "Product Management Status",
+                                        "parent_table_id": "BMW.TFG.CREATIVE_REVIEW_JOB_STATUS",
+                                        "parent_table_name": "Creative Review Job Status",
+                                        "values": []
+                                    }
+                                ],
+                                "legacy_id": 1220
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.COPYRIGHT_INFORMATION_EN_AG",
+                                "name": "Copyright Information",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.TYPE_EN_AG",
+                                        "name": "Type",
+                                        "value": {
+                                            "cascading_domain_value": false,
+                                            "domain_value": true,
+                                            "is_locked": false,
+                                            "value": {
+                                                "type": "com.artesia.metadata.DomainValue",
+                                                "active_from": "",
+                                                "active_to": "",
+                                                "display_value": "Copyrights/Legal Notice",
+                                                "expired_value": false,
+                                                "field_value": {
+                                                    "type": "string",
+                                                    "value": "000001"
+                                                }
+                                            }
+                                        },
+                                        "parent_table_id": "BMW.TFG.COPYRIGHT_INFORMATION_EN_AG",
+                                        "parent_table_name": "Copyright Information",
+                                        "values": [
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": true,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "com.artesia.metadata.DomainValue",
+                                                    "active_from": "",
+                                                    "active_to": "",
+                                                    "display_value": "Copyrights/Legal Notice",
+                                                    "expired_value": false,
+                                                    "field_value": {
+                                                        "type": "string",
+                                                        "value": "000001"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": true,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "com.artesia.metadata.DomainValue",
+                                                    "active_from": "",
+                                                    "active_to": "",
+                                                    "display_value": "Music",
+                                                    "expired_value": false,
+                                                    "field_value": {
+                                                        "type": "string",
+                                                        "value": "000004"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": true,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "com.artesia.metadata.DomainValue",
+                                                    "active_from": "",
+                                                    "active_to": "",
+                                                    "display_value": "Additionally purchased material",
+                                                    "expired_value": false,
+                                                    "field_value": {
+                                                        "type": "string",
+                                                        "value": "000006"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": true,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "com.artesia.metadata.DomainValue",
+                                                    "active_from": "",
+                                                    "active_to": "",
+                                                    "display_value": "Music",
+                                                    "expired_value": false,
+                                                    "field_value": {
+                                                        "type": "string",
+                                                        "value": "000004"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": true,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "com.artesia.metadata.DomainValue",
+                                                    "active_from": "",
+                                                    "active_to": "",
+                                                    "display_value": "Note",
+                                                    "expired_value": false,
+                                                    "field_value": {
+                                                        "type": "string",
+                                                        "value": "000010"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.DETAILS_EN_AG",
+                                        "name": "Details",
+                                        "value": {
+                                            "cascading_domain_value": false,
+                                            "domain_value": false,
+                                            "is_locked": false,
+                                            "value": {
+                                                "type": "string",
+                                                "value": "do something"
+                                            }
+                                        },
+                                        "parent_table_id": "BMW.TFG.COPYRIGHT_INFORMATION_EN_AG",
+                                        "parent_table_name": "Copyright Information",
+                                        "values": [
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": false,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "string",
+                                                    "value": "do something"
+                                                }
+                                            },
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": false,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "string",
+                                                    "value": "yesterday"
+                                                }
+                                            },
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": false,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "string",
+                                                    "value": "cool stuff"
+                                                }
+                                            },
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": false,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "string",
+                                                    "value": "tomorrrow"
+                                                }
+                                            },
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": false,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "string",
+                                                    "value": "hurrah"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "legacy_id": 1214
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.COPYRIGHT_INFORMATION_DE_AG",
+                                "name": "Copyright Informationen",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.TYPE_DE_AG",
+                                        "name": "Typ",
+                                        "value": {
+                                            "cascading_domain_value": false,
+                                            "domain_value": true,
+                                            "is_locked": false,
+                                            "value": {
+                                                "type": "com.artesia.metadata.DomainValue",
+                                                "active_from": "",
+                                                "active_to": "",
+                                                "display_value": "Copyrights/Rechtliche Hinweise",
+                                                "expired_value": false,
+                                                "field_value": {
+                                                    "type": "string",
+                                                    "value": "000001"
+                                                }
+                                            }
+                                        },
+                                        "parent_table_id": "BMW.TFG.COPYRIGHT_INFORMATION_DE_AG",
+                                        "parent_table_name": "Copyright Informationen",
+                                        "values": [
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": true,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "com.artesia.metadata.DomainValue",
+                                                    "active_from": "",
+                                                    "active_to": "",
+                                                    "display_value": "Copyrights/Rechtliche Hinweise",
+                                                    "expired_value": false,
+                                                    "field_value": {
+                                                        "type": "string",
+                                                        "value": "000001"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": true,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "com.artesia.metadata.DomainValue",
+                                                    "active_from": "",
+                                                    "active_to": "",
+                                                    "display_value": "Musik",
+                                                    "expired_value": false,
+                                                    "field_value": {
+                                                        "type": "string",
+                                                        "value": "000004"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": true,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "com.artesia.metadata.DomainValue",
+                                                    "active_from": "",
+                                                    "active_to": "",
+                                                    "display_value": "Musik",
+                                                    "expired_value": false,
+                                                    "field_value": {
+                                                        "type": "string",
+                                                        "value": "000004"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": true,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "com.artesia.metadata.DomainValue",
+                                                    "active_from": "",
+                                                    "active_to": "",
+                                                    "display_value": "Zugekauftes Material",
+                                                    "expired_value": false,
+                                                    "field_value": {
+                                                        "type": "string",
+                                                        "value": "000006"
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": true,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "com.artesia.metadata.DomainValue",
+                                                    "active_from": "",
+                                                    "active_to": "",
+                                                    "display_value": "Bemerkung",
+                                                    "expired_value": false,
+                                                    "field_value": {
+                                                        "type": "string",
+                                                        "value": "000010"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.DETAILS_DE_AG",
+                                        "name": "Erklärung",
+                                        "value": {
+                                            "cascading_domain_value": false,
+                                            "domain_value": false,
+                                            "is_locked": false,
+                                            "value": {
+                                                "type": "string",
+                                                "value": "do something"
+                                            }
+                                        },
+                                        "parent_table_id": "BMW.TFG.COPYRIGHT_INFORMATION_DE_AG",
+                                        "parent_table_name": "Copyright Informationen",
+                                        "values": [
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": false,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "string",
+                                                    "value": "do something"
+                                                }
+                                            },
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": false,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "string",
+                                                    "value": "yesterday"
+                                                }
+                                            },
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": false,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "string",
+                                                    "value": "cool stuff"
+                                                }
+                                            },
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": false,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "string",
+                                                    "value": "tomorrrow"
+                                                }
+                                            },
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": false,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "string",
+                                                    "value": "hurrah"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "legacy_id": 1243
+                            }
+                        ],
+                        "legacy_id": 200014
+                    },
+                    {
+                        "type": "com.artesia.metadata.MetadataCategory",
+                        "id": "BMW.FG.IMAGE_INFORMATION",
+                        "name": "Image Information",
+                        "metadata_element_list": [
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "ARTESIA.FIELD.BITMAP COLOR MAP",
+                                "name": "Bitmap Color Map",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": true,
+                                    "is_locked": false,
+                                    "value": {
+                                        "type": "com.artesia.metadata.DomainValue",
+                                        "active_from": "",
+                                        "active_to": "",
+                                        "display_value": "sRGB",
+                                        "expired_value": false,
+                                        "field_value": {
+                                            "type": "string",
+                                            "value": "sRGB"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "ARTESIA.EMBEDDED.FIELD.RESOLUTION_X",
+                                "name": "Resolution X",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "ARTESIA.EMBEDDED.FIELD.RESOLUTION_Y",
+                                "name": "Resolution Y",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "ARTESIA.EMBEDDED.FIELD.PIXEL_DIMENTION_X",
+                                "name": "Pixel Dimension X",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "ARTESIA.EMBEDDED.FIELD.PIXEL_DIMENTION_Y",
+                                "name": "Pixel Dimension Y",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.SUB_TYPE_EN_AG",
+                                "name": "Sub Type",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.SUB_TYPE_DE_AG",
+                                "name": "Sub-Typ",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.VARIANT_TYPE_EN_AG",
+                                "name": "Variant Type",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.VARIANT_TYPE_DE_AG",
+                                "name": "Variantentyp",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.PURPOSE_EN_AG",
+                                "name": "Purpose",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.PURPOSE_DE_AG",
+                                "name": "Verwendungszweck",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.RECOMMENDED_PRINT_SIZE_OFFSET_EN_AG",
+                                "name": "Recommended Print Size (Offset)",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.RECOMMENDED_PRINT_SIZE_OFFSET_DE_AG",
+                                "name": "Empfohlene Druckgröße (Offset)",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.LOCATION_EN_AG",
+                                "name": "Location",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.LOCATION_DE_AG",
+                                "name": "Standort",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.PRODUCTION_YEAR_EN_AG",
+                                "name": "Production Year",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.PRODUCTION_YEAR_DE_AG",
+                                "name": "Produktionsjahr",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.ICC_PROFILE",
+                                "name": "ICC Profile",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.ARTWORK_SPECIFICATION",
+                                "name": "Artwork Specification",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.VEHICLE_NUMBER",
+                                        "name": "Vehicle Number",
+                                        "parent_table_id": "BMW.TFG.ARTWORK_SPECIFICATION",
+                                        "parent_table_name": "Artwork Specification",
+                                        "values": []
+                                    },
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.PROOF_FORMAT_IN_PIXEL_",
+                                        "name": "Proof (Format in Pixel)",
+                                        "parent_table_id": "BMW.TFG.ARTWORK_SPECIFICATION",
+                                        "parent_table_name": "Artwork Specification",
+                                        "values": []
+                                    },
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.IMAGE_TYPE",
+                                        "name": "Image Type",
+                                        "parent_table_id": "BMW.TFG.ARTWORK_SPECIFICATION",
+                                        "parent_table_name": "Artwork Specification",
+                                        "values": []
+                                    },
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.DESIGN_DETAIL",
+                                        "name": "Design Detail",
+                                        "parent_table_id": "BMW.TFG.ARTWORK_SPECIFICATION",
+                                        "parent_table_name": "Artwork Specification",
+                                        "values": []
+                                    },
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.TEMPLATE",
+                                        "name": "Template",
+                                        "parent_table_id": "BMW.TFG.ARTWORK_SPECIFICATION",
+                                        "parent_table_name": "Artwork Specification",
+                                        "values": []
+                                    },
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.PERSPECTIVE_DESCRIPT_24",
+                                        "name": "Perspective description",
+                                        "parent_table_id": "BMW.TFG.ARTWORK_SPECIFICATION",
+                                        "parent_table_name": "Artwork Specification",
+                                        "values": []
+                                    },
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.SETUP",
+                                        "name": "Setup",
+                                        "parent_table_id": "BMW.TFG.ARTWORK_SPECIFICATION",
+                                        "parent_table_name": "Artwork Specification",
+                                        "values": []
+                                    },
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.COMMENT",
+                                        "name": "Comment",
+                                        "parent_table_id": "BMW.TFG.ARTWORK_SPECIFICATION",
+                                        "parent_table_name": "Artwork Specification",
+                                        "values": []
+                                    }
+                                ],
+                                "legacy_id": 1223
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.CONTACTS",
+                                "name": "Contacts",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.CONTACT_INFORMATION",
+                                        "name": "Contact Information",
+                                        "parent_table_id": "BMW.TFG.CONTACTS",
+                                        "parent_table_name": "Contacts",
+                                        "values": []
+                                    },
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.CONTACT",
+                                        "name": "Contact",
+                                        "parent_table_id": "BMW.TFG.CONTACTS",
+                                        "parent_table_name": "Contacts",
+                                        "values": []
+                                    }
+                                ],
+                                "legacy_id": 1216
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "ARTESIA.TABLE.FILE INFORMATION",
+                                "name": "File Information",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "ARTESIA.FIELD.OBJECT ID",
+                                        "name": "Object ID",
+                                        "value": {
+                                            "cascading_domain_value": false,
+                                            "domain_value": false,
+                                            "is_locked": false,
+                                            "value": {
+                                                "type": "string",
+                                                "value": "7953c5d5de776cc947a070e12d0dfb9da3e0506f"
+                                            }
+                                        },
+                                        "parent_table_id": "ARTESIA.TABLE.FILE INFORMATION",
+                                        "parent_table_name": "File Information",
+                                        "values": [
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": false,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "string",
+                                                    "value": "7953c5d5de776cc947a070e12d0dfb9da3e0506f"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "ARTESIA.FIELD.FILE SIZE",
+                                        "name": "File Size",
+                                        "value": {
+                                            "cascading_domain_value": false,
+                                            "domain_value": false,
+                                            "is_locked": false,
+                                            "value": {
+                                                "type": "long",
+                                                "value": 303795
+                                            }
+                                        },
+                                        "parent_table_id": "ARTESIA.TABLE.FILE INFORMATION",
+                                        "parent_table_name": "File Information",
+                                        "values": [
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": false,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "long",
+                                                    "value": 303795
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "ARTESIA.FIELD.IS MASTER",
+                                        "name": "Is Master",
+                                        "value": {
+                                            "cascading_domain_value": false,
+                                            "domain_value": true,
+                                            "is_locked": false,
+                                            "value": {
+                                                "type": "com.artesia.metadata.DomainValue",
+                                                "active_from": "",
+                                                "active_to": "",
+                                                "display_value": "Yes",
+                                                "expired_value": false,
+                                                "field_value": {
+                                                    "type": "string",
+                                                    "value": "Y"
+                                                }
+                                            }
+                                        },
+                                        "parent_table_id": "ARTESIA.TABLE.FILE INFORMATION",
+                                        "parent_table_name": "File Information",
+                                        "values": [
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": true,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "com.artesia.metadata.DomainValue",
+                                                    "active_from": "",
+                                                    "active_to": "",
+                                                    "display_value": "Yes",
+                                                    "expired_value": false,
+                                                    "field_value": {
+                                                        "type": "string",
+                                                        "value": "Y"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "ARTESIA.FIELD.OBJECT IS LATEST VER.",
+                                        "name": "Object: Is Latest Ver.",
+                                        "value": {
+                                            "cascading_domain_value": false,
+                                            "domain_value": true,
+                                            "is_locked": false,
+                                            "value": {
+                                                "type": "com.artesia.metadata.DomainValue",
+                                                "active_from": "",
+                                                "active_to": "",
+                                                "display_value": "Yes",
+                                                "expired_value": false,
+                                                "field_value": {
+                                                    "type": "string",
+                                                    "value": "Y"
+                                                }
+                                            }
+                                        },
+                                        "parent_table_id": "ARTESIA.TABLE.FILE INFORMATION",
+                                        "parent_table_name": "File Information",
+                                        "values": [
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": true,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "com.artesia.metadata.DomainValue",
+                                                    "active_from": "",
+                                                    "active_to": "",
+                                                    "display_value": "Yes",
+                                                    "expired_value": false,
+                                                    "field_value": {
+                                                        "type": "string",
+                                                        "value": "Y"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "ARTESIA.FIELD.OBJECT MIME TYPE",
+                                        "name": "Object Mime Type",
+                                        "value": {
+                                            "cascading_domain_value": false,
+                                            "domain_value": false,
+                                            "is_locked": false
+                                        },
+                                        "parent_table_id": "ARTESIA.TABLE.FILE INFORMATION",
+                                        "parent_table_name": "File Information",
+                                        "values": [
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": false,
+                                                "is_locked": false
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "ARTESIA.FIELD.OBJECT NAME",
+                                        "name": "Object: Name",
+                                        "value": {
+                                            "cascading_domain_value": false,
+                                            "domain_value": false,
+                                            "is_locked": false,
+                                            "value": {
+                                                "type": "string",
+                                                "value": "DI24_000002863.jpg"
+                                            }
+                                        },
+                                        "parent_table_id": "ARTESIA.TABLE.FILE INFORMATION",
+                                        "parent_table_name": "File Information",
+                                        "values": [
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": false,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "string",
+                                                    "value": "DI24_000002863.jpg"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "ARTESIA.FIELD.UNIT",
+                                        "name": "Unit",
+                                        "value": {
+                                            "cascading_domain_value": false,
+                                            "domain_value": false,
+                                            "is_locked": false,
+                                            "value": {
+                                                "type": "string",
+                                                "value": "BYTES"
+                                            }
+                                        },
+                                        "parent_table_id": "ARTESIA.TABLE.FILE INFORMATION",
+                                        "parent_table_name": "File Information",
+                                        "values": [
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": false,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "string",
+                                                    "value": "BYTES"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "ARTESIA.FIELD.CONTENT KIND",
+                                        "name": "Content Kind",
+                                        "value": {
+                                            "cascading_domain_value": false,
+                                            "domain_value": false,
+                                            "is_locked": false,
+                                            "value": {
+                                                "type": "string",
+                                                "value": "MASTER"
+                                            }
+                                        },
+                                        "parent_table_id": "ARTESIA.TABLE.FILE INFORMATION",
+                                        "parent_table_name": "File Information",
+                                        "values": [
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": false,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "string",
+                                                    "value": "MASTER"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "ARTESIA.FIELD.FILE CHECKSUM",
+                                        "name": "File Checksum",
+                                        "value": {
+                                            "cascading_domain_value": false,
+                                            "domain_value": false,
+                                            "is_locked": false,
+                                            "value": {
+                                                "type": "string",
+                                                "value": "41d261b517146f9078f39f7e75603ed6"
+                                            }
+                                        },
+                                        "parent_table_id": "ARTESIA.TABLE.FILE INFORMATION",
+                                        "parent_table_name": "File Information",
+                                        "values": [
+                                            {
+                                                "cascading_domain_value": false,
+                                                "domain_value": false,
+                                                "is_locked": false,
+                                                "value": {
+                                                    "type": "string",
+                                                    "value": "41d261b517146f9078f39f7e75603ed6"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "legacy_id": 1
+                            }
+                        ],
+                        "legacy_id": 200016
+                    },
+                    {
+                        "type": "com.artesia.metadata.MetadataCategory",
+                        "id": "BMW.FG.VEHICLE_INFORMATION",
+                        "name": "Vehicle Information",
+                        "metadata_element_list": [
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.BUILD_LEVEL_EN_AG",
+                                "name": "Build Level",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.BUILD_LEVEL_DE_AG",
+                                "name": "Baustand",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.MOTOR_RANGE_EN_AG",
+                                "name": "Motor Range",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.MOTOR_RANGE_DE_AG",
+                                "name": "Motorbaureihe",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.POWER_EN_AG",
+                                "name": "Power",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.POWER_DE_AG",
+                                "name": "Leistung",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.PROVISION_EN_AG",
+                                "name": "Provision",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.PROVISION_DE_AG",
+                                "name": "Versorgung",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.PUMA_PROVISION_NUMBER_EN_AG",
+                                "name": "PUMA Provision Number",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.PUMA_PROVISION_NUMBER_DE_AG",
+                                "name": "PUMA Bereitstellungsnummer",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.MODEL_COLLECTION_YEAR_EN_AG",
+                                "name": "Model/Collection Year",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.MODEL_COLLECTION_YEAR_DE_AG",
+                                "name": "Modell-/Kollektionsjahr",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.MOTORISATION_EN_AG",
+                                "name": "Motorisation",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.MOTORISATION_EN_AG",
+                                        "name": "Motorisation",
+                                        "parent_table_id": "BMW.TFG.MOTORISATION_EN_AG",
+                                        "parent_table_name": "Motorisation",
+                                        "values": []
+                                    }
+                                ],
+                                "legacy_id": 1205
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.MOTORISATION_DE_AG",
+                                "name": "Motorisierung",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.MOTORISATION_DE_AG",
+                                        "name": "Motorisierung",
+                                        "parent_table_id": "BMW.TFG.MOTORISATION_DE_AG",
+                                        "parent_table_name": "Motorisierung",
+                                        "values": []
+                                    }
+                                ],
+                                "legacy_id": 1234
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.STANDARD_EQUIPMENT_EN_AG",
+                                "name": "Standard Equipment",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.STANDARD_EQUIPMENT_EN_AG",
+                                        "name": "Standard Equipment",
+                                        "parent_table_id": "BMW.TFG.STANDARD_EQUIPMENT_EN_AG",
+                                        "parent_table_name": "Standard Equipment",
+                                        "values": []
+                                    }
+                                ],
+                                "legacy_id": 1206
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.STANDARD_EQUIPMENT_DE_AG",
+                                "name": "Grundausstattung",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.STANDARD_EQUIPMENT_DE_AG",
+                                        "name": "Grundausstattung",
+                                        "parent_table_id": "BMW.TFG.STANDARD_EQUIPMENT_DE_AG",
+                                        "parent_table_name": "Grundausstattung",
+                                        "values": []
+                                    }
+                                ],
+                                "legacy_id": 1235
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.OPTIONAL_EQUIPMENT_EN_AG",
+                                "name": "Optional Equipment",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.OPTIONAL_EQUIPMENT_EN_AG",
+                                        "name": "Optional Equipment",
+                                        "parent_table_id": "BMW.TFG.OPTIONAL_EQUIPMENT_EN_AG",
+                                        "parent_table_name": "Optional Equipment",
+                                        "values": []
+                                    }
+                                ],
+                                "legacy_id": 1207
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.OPTIONAL_EQUIPMENT_DE_AG",
+                                "name": "Sonderausstattung",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.OPTIONAL_EQUIPMENT_DE_AG",
+                                        "name": "Sonderausstattung",
+                                        "parent_table_id": "BMW.TFG.OPTIONAL_EQUIPMENT_DE_AG",
+                                        "parent_table_name": "Sonderausstattung",
+                                        "values": []
+                                    }
+                                ],
+                                "legacy_id": 1236
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.PAINT_EN_AG",
+                                "name": "Paint",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.PAINT_EN_AG",
+                                        "name": "Paint",
+                                        "parent_table_id": "BMW.TFG.PAINT_EN_AG",
+                                        "parent_table_name": "Paint",
+                                        "values": []
+                                    }
+                                ],
+                                "legacy_id": 1208
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.PAINT_DE_AG",
+                                "name": "Lack",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.PAINT_DE_AG",
+                                        "name": "Lack",
+                                        "parent_table_id": "BMW.TFG.PAINT_DE_AG",
+                                        "parent_table_name": "Lack",
+                                        "values": []
+                                    }
+                                ],
+                                "legacy_id": 1237
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.UPHOLSTERY_EN_AG",
+                                "name": "Upholstery",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.UPHOLSTERY_EN_AG",
+                                        "name": "Upholstery",
+                                        "parent_table_id": "BMW.TFG.UPHOLSTERY_EN_AG",
+                                        "parent_table_name": "Upholstery",
+                                        "values": []
+                                    }
+                                ],
+                                "legacy_id": 1209
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.UPHOLSTERY_DE_AG",
+                                "name": "Polster",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.UPHOLSTERY_DE_AG",
+                                        "name": "Polster",
+                                        "parent_table_id": "BMW.TFG.UPHOLSTERY_DE_AG",
+                                        "parent_table_name": "Polster",
+                                        "values": []
+                                    }
+                                ],
+                                "legacy_id": 1238
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.PACKAGE_EN_AG",
+                                "name": "Package",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.PACKAGE_EN_AG",
+                                        "name": "Package",
+                                        "parent_table_id": "BMW.TFG.PACKAGE_EN_AG",
+                                        "parent_table_name": "Package",
+                                        "values": []
+                                    }
+                                ],
+                                "legacy_id": 1210
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.PACKAGE_DE_AG",
+                                "name": "Paket",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.PACKAGE_DE_AG",
+                                        "name": "Paket",
+                                        "parent_table_id": "BMW.TFG.PACKAGE_DE_AG",
+                                        "parent_table_name": "Paket",
+                                        "values": []
+                                    }
+                                ],
+                                "legacy_id": 1239
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.INTERIOR_TRIMS_EN_AG",
+                                "name": "Interior Trims",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.INTERIOR_TRIMS_EN_AG",
+                                        "name": "Interior Trim",
+                                        "parent_table_id": "BMW.TFG.INTERIOR_TRIMS_EN_AG",
+                                        "parent_table_name": "Interior Trims",
+                                        "values": []
+                                    }
+                                ],
+                                "legacy_id": 1211
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.INTERIOR_TRIMS_DE_AG",
+                                "name": "Interieurleiste",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.INTERIOR_TRIMS_DE_AG",
+                                        "name": "Interieurleiste",
+                                        "parent_table_id": "BMW.TFG.INTERIOR_TRIMS_DE_AG",
+                                        "parent_table_name": "Interieurleiste",
+                                        "values": []
+                                    }
+                                ],
+                                "legacy_id": 1240
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.WHEELS_TYRES_EN_AG",
+                                "name": "Wheels/Tyres",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.WHEELS_TYRES_EN_AG",
+                                        "name": "Wheels/Tyres",
+                                        "parent_table_id": "BMW.TFG.WHEELS_TYRES_EN_AG",
+                                        "parent_table_name": "Wheels/Tyres",
+                                        "values": []
+                                    }
+                                ],
+                                "legacy_id": 1212
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.WHEELS_TYRES_DE_AG",
+                                "name": "Räder/Reifen",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.WHEELS_TYRES_DE_AG",
+                                        "name": "Räder/Reifen",
+                                        "parent_table_id": "BMW.TFG.WHEELS_TYRES_DE_AG",
+                                        "parent_table_name": "Räder/Reifen",
+                                        "values": []
+                                    }
+                                ],
+                                "legacy_id": 1241
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.FEATURE_CLASS_EN_AG",
+                                "name": "Feature Class",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.FEATURE_CLASS_EN_AG",
+                                        "name": "Feature Class",
+                                        "parent_table_id": "BMW.TFG.FEATURE_CLASS_EN_AG",
+                                        "parent_table_name": "Feature Class",
+                                        "values": []
+                                    }
+                                ],
+                                "legacy_id": 1204
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.FEATURE_CLASS_DE_AG",
+                                "name": "Ausstattungsklasse",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.FEATURE_CLASS_DE_AG",
+                                        "name": "Ausstattungsklasse",
+                                        "parent_table_id": "BMW.TFG.FEATURE_CLASS_DE_AG",
+                                        "parent_table_name": "Ausstattungsklasse",
+                                        "values": []
+                                    }
+                                ],
+                                "legacy_id": 1233
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.PART_NUMBER_EN_AG",
+                                "name": "Part Number",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.PART_NUMBER_EN_AG",
+                                        "name": "Part Number",
+                                        "parent_table_id": "BMW.TFG.PART_NUMBER_EN_AG",
+                                        "parent_table_name": "Part Number",
+                                        "values": []
+                                    }
+                                ],
+                                "legacy_id": 1221
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.PART_NUMBER_DE_AG",
+                                "name": "Teilenummer",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.PART_NUMBER_DE_AG",
+                                        "name": "Teilenummer",
+                                        "parent_table_id": "BMW.TFG.PART_NUMBER_DE_AG",
+                                        "parent_table_name": "Teilenummer",
+                                        "values": []
+                                    }
+                                ],
+                                "legacy_id": 1246
+                            }
+                        ],
+                        "legacy_id": 200015
+                    },
+                    {
+                        "type": "com.artesia.metadata.MetadataCategory",
+                        "id": "BMW.FG.HELP_VARIANTS",
+                        "name": "Help Variants",
+                        "metadata_element_list": [
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.HELP_VARIANT_MASTER",
+                                "name": "Help Variant Master",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            }
+                        ],
+                        "legacy_id": 200023
+                    },
+                    {
+                        "type": "com.artesia.metadata.MetadataCategory",
+                        "id": "BMW.FG.ADMIN_INFORMATION",
+                        "name": "Admin Information",
+                        "metadata_element_list": [
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.ARCHIVE_ORIGINAL_SECURITY_POLICIES",
+                                "name": "Archive Original Security Policies",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.ARCHIVE_ORIGINAL_PARENT_FOLDERS",
+                                "name": "Archive Original Parent Folders",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.ARCHIVE_NOTIFICATION_STATUS",
+                                "name": "Archive Notification Status",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.ARCHIVE_NOTIFICATION_STATUS_MEDIA_OWNER_",
+                                "name": "Archive Notification Status(Media Owner)",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataField",
+                                "id": "BMW.FD.DOWNLOAD_REQUESTABLE",
+                                "name": "Download Requestable",
+                                "value": {
+                                    "cascading_domain_value": false,
+                                    "domain_value": false,
+                                    "is_locked": false
+                                }
+                            },
+                            {
+                                "type": "com.artesia.metadata.MetadataTable",
+                                "id": "BMW.TFG.DOWNLOAD_APPROVALS",
+                                "name": "Download Approvals",
+                                "metadata_element_list": [
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.DOWNLOAD_REQUESTER",
+                                        "name": "Download Requester",
+                                        "parent_table_id": "BMW.TFG.DOWNLOAD_APPROVALS",
+                                        "parent_table_name": "Download Approvals",
+                                        "values": []
+                                    },
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.DOWNLOAD_APPROVER",
+                                        "name": "Download Approver",
+                                        "parent_table_id": "BMW.TFG.DOWNLOAD_APPROVALS",
+                                        "parent_table_name": "Download Approvals",
+                                        "values": []
+                                    },
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.APPROVAL_DATE",
+                                        "name": "Approval Date",
+                                        "parent_table_id": "BMW.TFG.DOWNLOAD_APPROVALS",
+                                        "parent_table_name": "Download Approvals",
+                                        "values": []
+                                    },
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.USER_GROUP_ID",
+                                        "name": "User Group Id",
+                                        "parent_table_id": "BMW.TFG.DOWNLOAD_APPROVALS",
+                                        "parent_table_name": "Download Approvals",
+                                        "values": []
+                                    },
+                                    {
+                                        "type": "com.artesia.metadata.MetadataTableField",
+                                        "id": "BMW.TF.SECURITY_POLICY_ID",
+                                        "name": "Security Policy Id",
+                                        "parent_table_id": "BMW.TFG.DOWNLOAD_APPROVALS",
+                                        "parent_table_name": "Download Approvals",
+                                        "values": []
+                                    }
+                                ],
+                                "legacy_id": 1227
+                            }
+                        ],
+                        "legacy_id": 200029
+                    }
+                ],
+                "has_multilingual_fields": true,
+                "legacy_id": 103,
+                "object_type": "ASSET"
+            },
+            "metadata_lock_state_user_name": "junittest",
+            "metadata_model_id": "BMW.MD.IMAGE_AUTOMOBILE_OR_MOTORCYCLE",
+            "metadata_state_user_name": "Test Junit",
+            "mime_type": "image/jpeg",
+            "name": "DI24_000002863",
+            "original_asset_id": "0a5556beeb0bb2c36eeced9c93d8ec363cbee60d",
+            "path_list": [
+                {
+                    "complete": true,
+                    "parents": [
+                        {
+                            "container_state": "NORMAL",
+                            "id": "f5469be783efa6833859f58f593e35777243c565",
+                            "name": "CGTest",
+                            "original_uoi_id": "f5469be783efa6833859f58f593e35777243c565",
+                            "sequence_number": 0
+                        }
+                    ],
+                    "sequence_number": 1178,
+                    "tree_descriptor": {
+                        "detached": false,
+                        "tree_id": "ARTESIA.PUBLIC.TREE"
+                    }
+                }
+            ],
+            "rendition_content": {
+                "thumbnail_content": {
+                    "content_data": {
+                        "data_source": "NO_CONTENT",
+                        "temp_file": false
+                    },
+                    "content_kind": "THUMBNAIL",
+                    "content_manager_id": "ARTESIA.CONTENT.FILESYSTEM",
+                    "content_size": 116981,
+                    "height": 354,
+                    "id": "ccdca4ad5f40e41cf0f85f9bb5708288b52ef1f1",
+                    "mime_type": "image/jpeg",
+                    "name": "Dick_Butkus-T.JPG",
+                    "unit_of_size": "BYTES",
+                    "url": "/otmmapi/v6/renditions/ccdca4ad5f40e41cf0f85f9bb5708288b52ef1f1",
+                    "width": 500
+                },
+                "preview_content": {
+                    "content_data": {
+                        "data_source": "NO_CONTENT",
+                        "temp_file": false
+                    },
+                    "content_kind": "PREVIEW",
+                    "content_manager_id": "ARTESIA.CONTENT.FILESYSTEM",
+                    "content_size": 355311,
+                    "height": 726,
+                    "id": "79e043fab0a2896ea4a9059c8da62ae68bffbe9b",
+                    "mime_type": "image/jpeg",
+                    "name": "Dick_Butkus-S.JPG",
+                    "unit_of_size": "BYTES",
+                    "url": "/otmmapi/v6/renditions/79e043fab0a2896ea4a9059c8da62ae68bffbe9b",
+                    "width": 1024
+                }
+            },
+            "security_policy_list": [
+                {
+                    "create_date": "2022-09-02T16:00:18+02:00",
+                    "created_by": "24",
+                    "id": 29,
+                    "name": "POST-SOC",
+                    "ownership_type": "PUBLIC",
+                    "status": "NORMAL"
+                },
+                {
+                    "create_date": "2022-09-02T16:03:37+02:00",
+                    "created_by": "24",
+                    "id": 30,
+                    "name": "PRE-SOC",
+                    "ownership_type": "PUBLIC",
+                    "status": "NORMAL"
+                }
+            ],
+            "subscribed_to": false,
+            "thumbnail_content_id": "ccdca4ad5f40e41cf0f85f9bb5708288b52ef1f1",
+            "version": 1
+        }
+    }
+}
