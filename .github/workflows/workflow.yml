@@ -1,0 +1,14 @@
+name: Dev Manual Workflow
+
+on:
+  workflow_dispatch:
+
+jobs:
+  dev-only-job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Echo environment
+        run: echo "Running manually in the dev branch !"
